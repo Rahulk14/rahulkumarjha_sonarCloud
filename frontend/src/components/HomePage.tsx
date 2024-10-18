@@ -2,7 +2,7 @@ const HomePage = () => {
     return (
       <div>
           <h2>Home Page</h2>
-          <p>This is the sample home page for sonar cloud integration</p>
+          <p>This is the sample home page </p>
       </div>
     )
   }
